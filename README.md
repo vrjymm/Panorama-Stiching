@@ -1,2 +1,2 @@
-# Panorama-Stiching
+# Panorama-Stitching
 Given 2 images with some correspondence, stitch the 2 images together.
