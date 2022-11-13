@@ -1,7 +1,5 @@
 # Panorama Stitching
 
----
-
 **Step 1:** Click a wide angle view with 2 images using a digital camera. Eg -
 
 ![left_small.png](Panorama%20Stitching%201599413bd6dd4c8db9d55801db355d1c/left_small.png)
