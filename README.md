@@ -1,10 +1,10 @@
 # Panorama Stitching
 
 **Step 1:** Click a wide angle view with 2 images using a digital camera. Eg -
+<img src="images/left_small.png" alt="drawing" width="200"/>
+![left_small.png](images/left_small.png)
 
-![left_small.png](images/left_small.png=100x20)
-
-![right_small.png](images/right_small.png =100x20)
+![right_small.png](images/right_small.png)
 
 **Step 2**: Find the SIFT-key points and descriptors for both the images. This can be done using the open source `opencv-python` library using `sift.detectAndCompute()` function which computes and returns both keypoints and descriptors for a given input image.
 The resulting key points for the 2 images -
