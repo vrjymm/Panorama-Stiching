@@ -36,8 +36,10 @@ for desc in desc1:
 ```
 
 Feature matching results for the 2 images -
+<br>
+<br>
 <img src="images/feature_mapping.png" alt="drawing" width="400"/>
-
+<br>
 
 **Step4**: We use RANSAC (Random SAmple Consensus Iteration) for homography estimation and image stitching by systematically removing the outliers. With the “good sample” of correspondence solve for the closest Homography matrix to be able to project one of the images into the plane of the other image (warpPerspective) and hence obtain a resulting stitched image. Resulting stitched image/ panorama -
 
