@@ -2,6 +2,7 @@
 
 **Step 1:** Click a wide angle view with 2 images using a digital camera. Eg -
 <br>
+<br>
 <img src="images/left_small.png" alt="drawing" width="200"/>
 <img src="images/right_small.png" alt="drawing" width="200"/>
 <br>
